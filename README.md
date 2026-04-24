@@ -1,5 +1,12 @@
 # Clinical ASD Screening Ensemble
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Ensemble-02569B)
+![XGBoost](https://img.shields.io/badge/XGBoost-Calibrated-FF6600)
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-Clinical_ML-0EA5E9)
+![Reproducible](https://img.shields.io/badge/Reproducible-Inference-10B981)
+
 Leakage-safe machine learning pipeline for ASD-vs-TD screening from behavioral touch-interaction data. The project converts raw coloring-session records into child-level features, trains calibrated ensembles, selects clinically constrained thresholds, and exports a reproducible inference bundle.
 
 ## What This Demonstrates
